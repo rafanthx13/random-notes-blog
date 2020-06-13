@@ -1,0 +1,6 @@
+Otros Reps com themes:
+
++ https://github.com/mmistakes/so-simple-theme
++ https://jekyll-themes.com/categories/#portfolio
++ https://jekyll-themes.com/minimal-mistakes/
++ https://github.com/mmistakes/so-simple-theme
